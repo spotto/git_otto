@@ -1,1 +1,1 @@
-Testing whether git #1 is stored.
+Testing whether git #2 is stored.
